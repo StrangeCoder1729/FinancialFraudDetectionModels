@@ -1,8 +1,5 @@
-Certainly! Below is the updated README with a section linking to another GitHub repository where the deployed model using Flask can be found:
-
----
-
-# Financial Fraud Detection Project
+ 
+# Financial Fraud Detection Project (Part-I)
 
 ## Overview
 This project focuses on detecting financial fraud using a variety of machine learning and deep learning models. The dataset used contains transactional data with features such as transaction type, amount, and balance changes. The goal is to develop effective models that can accurately classify transactions as either fraudulent or non-fraudulent.
