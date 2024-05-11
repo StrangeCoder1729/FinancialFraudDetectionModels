@@ -1,5 +1,5 @@
  
-# Financial Fraud Detection Project (Part-I)
+# Financial Fraud Detection Model Analysis (Part-I)
 
 ## Overview
 This project focuses on detecting financial fraud using a variety of machine learning and deep learning models. The dataset used contains transactional data with features such as transaction type, amount, and balance changes. The goal is to develop effective models that can accurately classify transactions as either fraudulent or non-fraudulent.
