@@ -13,8 +13,8 @@ The dataset used in this project consists of transactional data containing the f
 
 ## Methodology
 ### Preprocessing
-- Data cleaning: Handling missing values, outlier detection, and data normalization.
-- Feature engineering: Creating additional relevant features from the existing dataset.
+- Data cleaning: One-hot encoding and data normalization.
+- Feature engineering: Dropping irrelevant features.
 
 ### Model Selection
 The project explores both traditional machine learning models and deep learning architectures for classification:
